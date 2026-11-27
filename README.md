@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="iDiscord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-GPU-Drivers-Macos-Hardware-Support?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -69,9 +69,9 @@ While proprietary vendor driver suites (**NVIDIA App/GeForce Experience, AMD Adr
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted descending by GitHub star count. Each badge links directly to that repository's stargazers page.*
+*Sorted descending by GitHub Stars_Count. Each badge links directly to that repository's stargazers page.*
 
-| Project | Stars | Category & Focus | Description |
+| Project | GitHub_Stars | Category & Focus | Description |
 | :--- | :--- | :--- | :--- |
 | **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)** | [![Stars](https://img.shields.io/github/stars/dortania/OpenCore-Legacy-Patcher?style=social&color=white)](https://github.com/dortania/OpenCore-Legacy-Patcher/stargazers) | macOS GPU Driver & Metal Patcher | Python and Swift GUI patching Metal drivers (NVIDIA Kepler, AMD TeraScale/GCN, Intel HD Graphics) for unsupported Macs on macOS Big Sur through Sequoia. |
 | **[NVIDIA Open GPU Kernel Modules](https://github.com/NVIDIA/open-gpu-kernel-modules)** | [![Stars](https://img.shields.io/github/stars/NVIDIA/open-gpu-kernel-modules?style=social&color=white)](https://github.com/NVIDIA/open-gpu-kernel-modules/stargazers) | Kernel-Level GPU Drivers | Official open-source kernel modules for NVIDIA Turing, Ampere, Ada Lovelace, and Blackwell architectures, foundational for Linux and hybrid macOS virtualizations. |
@@ -108,7 +108,7 @@ Contributions are welcome! Please follow these steps to add new resources or upd
    ```bash
    git checkout -b feat/add-new-gpu-driver
    ```
-3. 📝 **Add your entry** in the appropriate section with correct markdown formatting, pricing details, and star badges.
+3. 📝 **Add your entry** in the appropriate section with correct markdown formatting, pricing details, and Stars_Badges.
 4. 🚀 **Commit and Push**:
    ```bash
    git commit -m "Add [Project/Platform Name] to macOS GPU drivers list"
